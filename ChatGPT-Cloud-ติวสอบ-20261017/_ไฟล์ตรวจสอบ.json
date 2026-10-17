@@ -1,0 +1,117 @@
+{
+  "created": "2026-10-17",
+  "timezone": "Asia/Bangkok",
+  "source": "Google Drive / STD / Lec",
+  "pdf_count": 12,
+  "pdf_pages": 755,
+  "lecture_markdown_count": 7,
+  "exam_questions": 120,
+  "exam_topic_folders": 9,
+  "verified_relative_links": 569,
+  "broken_relative_links": [],
+  "source_pdfs_copied_without_changes": true,
+  "markdown_adaptation": "Original reviewed text retained; embedded page-image links replaced with references to pages of the accompanying PDF. No new PDF-to-Markdown conversion.",
+  "coverage_note": "Integrated Lab Summary has no separately confirmed Lecture file. Troubleshooting now includes Chapter 21 Wireless Connectivity supplied by the student on 2026-10-18, but its equivalence to the full 20-question exam scope remains unconfirmed.",
+  "files": [
+    {
+      "topic_folder": "01 - QoS",
+      "file": "01 - QoS/ENCOR_14Qos.pdf",
+      "pages": 68,
+      "sha256": "674ae08fde27624e40693fd2f5a24644063c5eee2f64c63be0dba7122c5a7b5a",
+      "source": "STD / Lec / ENCOR_14Qos.pdf",
+      "markdown_file": "01 - QoS/ENCOR_14Qos.md"
+    },
+    {
+      "topic_folder": "02 - IP Services",
+      "file": "02 - IP Services/ENCOR_15IPService.pdf",
+      "pages": 65,
+      "sha256": "3c972ed6cf9fdad527f475591f9eb36c443443f76e18d7b02d00e296c149a907",
+      "source": "STD / Lec / ENCOR_15IPService.pdf",
+      "markdown_file": "02 - IP Services/ENCOR_15IPService.md"
+    },
+    {
+      "topic_folder": "03 - Overlay Tunnels",
+      "file": "03 - Overlay Tunnels/Chapter_16Tunnels.pdf",
+      "pages": 55,
+      "sha256": "5664cc8938510ae69b17bfe0e4a2554c7b30208877a24ec0c1fa3826cccafe53",
+      "source": "STD / Lec / Chapter_16Tunnels.pdf",
+      "markdown_file": "03 - Overlay Tunnels/Chapter_16Tunnels.md"
+    },
+    {
+      "topic_folder": "04 - OSPF/01 - Fundamentals",
+      "file": "04 - OSPF/01 - Fundamentals/Chapter_8OSPF.pdf",
+      "pages": 35,
+      "sha256": "4d3268b61e7298af8d6672a3da180f92537e2ed3c32cad7faeb90c137a066be5",
+      "source": "STD / Lec / Chapter_8OSPF.pdf"
+    },
+    {
+      "topic_folder": "04 - OSPF/02 - Advanced OSPF",
+      "file": "04 - OSPF/02 - Advanced OSPF/Chapter_9Advanced OSPF.pdf",
+      "pages": 48,
+      "sha256": "2acd33f5f29d89f694711da326b7ac41c0d79b17f044003d376118d5c23887c0",
+      "source": "STD / Lec / Chapter_9Advanced OSPF.pdf"
+    },
+    {
+      "topic_folder": "04 - OSPF/03 - OSPFv3",
+      "file": "04 - OSPF/03 - OSPFv3/Chapter_10OSPFv3.pdf",
+      "pages": 30,
+      "sha256": "ed912bfda1a69686f9dbf5ec9a932e8f78bb1cea078e74c77efc3a5009abb87f",
+      "source": "STD / Lec / Chapter_10OSPFv3.pdf"
+    },
+    {
+      "topic_folder": "05 - BGP/01 - Fundamentals",
+      "file": "05 - BGP/01 - Fundamentals/Chapter_11BGP.pdf",
+      "pages": 55,
+      "sha256": "9efc0d539d1cd477a4a662e249b1eefcb3aec5b8af8d987b5a2149bb5d3b2894",
+      "source": "STD / Lec / Chapter_11BGP.pdf"
+    },
+    {
+      "topic_folder": "05 - BGP/02 - Advanced BGP",
+      "file": "05 - BGP/02 - Advanced BGP/Chapter_12AvdBGP.pdf",
+      "pages": 71,
+      "sha256": "17de9df4502b1283a8b97ffac0795bf0e5ccd64c7a320607fb23aadd41daaa21",
+      "source": "STD / Lec / Chapter_12AvdBGP.pdf"
+    },
+    {
+      "topic_folder": "06 - IS-IS",
+      "file": "06 - IS-IS/Chapter_16ISIS-Routing.pdf",
+      "pages": 80,
+      "sha256": "9ff0f5e5a859faacd200a882cf2608cf45f0b5b2572dc84d4b43c86030ce8b01",
+      "source": "STD / Lec / Chapter_16ISIS-Routing.pdf",
+      "markdown_file": "06 - IS-IS/Chapter_16ISIS-Routing.md"
+    },
+    {
+      "topic_folder": "07 - MPLS/01 - Fundamentals and Summary",
+      "file": "07 - MPLS/01 - Fundamentals and Summary/MPLS Summary.pdf",
+      "pages": 36,
+      "sha256": "cf54e230ee9867fe11fe1796b7041f34989adf2c34e44487b16351cb723ff2f3",
+      "source": "STD / Lec / MPLS Summary.pdf",
+      "markdown_file": "07 - MPLS/01 - Fundamentals and Summary/MPLS Summary.md"
+    },
+    {
+      "topic_folder": "07 - MPLS/02 - MPLS Layer 3 VPNs",
+      "file": "07 - MPLS/02 - MPLS Layer 3 VPNs/CISCO MPLS Layer 3 VPNs.pdf",
+      "pages": 182,
+      "sha256": "d12258f3147b671efdad9e97b84899296ab6614244b5d03dc53180c69b7b3aa5",
+      "source": "STD / Lec / CISCO MPLS Layer 3 VPNs.pdf",
+      "markdown_file": "07 - MPLS/02 - MPLS Layer 3 VPNs/CISCO MPLS Layer 3 VPNs.md"
+    },
+    {
+      "topic_folder": "09 - Troubleshooting/01 - Wireless Connectivity",
+      "file": "09 - Troubleshooting/01 - Wireless Connectivity/Chapter_21WirelessTshooting.pdf",
+      "pages": 30,
+      "sha256": "edfa2ab947ff5318767c7741922ee0d88ec2132bed8454e94015d2176e8a11a4",
+      "source": "STD / Lec / Chapter_21WirelessTshooting.pdf; same PDF supplied by student on 2026-10-18",
+      "markdown_file": "09 - Troubleshooting/01 - Wireless Connectivity/Chapter_21WirelessTshooting.md"
+    }
+  ],
+  "handoff_review_date": "2026-10-18",
+  "handoff_review_notes": [
+    "Clarified no automatic A4/document generation; short conversational review remains allowed.",
+    "Added page coverage tracking and end-of-chapter coverage audit.",
+    "Added actual-file-access verification and no invented reading claims.",
+    "Clarified chunk counts do not justify cutting content and latest student instructions supersede snapshot.",
+    "Added student-requested NOTICE: dense QoS lecture requires connected step-by-step explanation of mechanisms and visuals; avoid bullet translation, unexplained jargon, abandoned explanations, and using questions in place of teaching.",
+    "Added the student-supplied 30-page Wireless Troubleshooting PDF and portable existing Markdown; updated scope notices without treating attachment as confirmation of all 20 exam questions."
+  ]
+}
